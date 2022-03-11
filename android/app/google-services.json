@@ -14,6 +14,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "790709530897-7k0gaek44iqnjmf87ul85ord2cgomnhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abg.homeservicepro",
+            "certificate_hash": "f57cfb1d870e89efd8aadf9e6938a8507256e38c"
+          }
+        },
+        {
+          "client_id": "790709530897-j9sspl5502eqmm35a5lo541adjp1tgud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abg.homeservicepro",
+            "certificate_hash": "0435051bb0bde0cdf59953afbaacbdab0a6c85de"
+          }
+        },
+        {
           "client_id": "790709530897-9ivhn9bk4b5ksop1jm1fentmiot58690.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,6 +45,13 @@
             {
               "client_id": "790709530897-9ivhn9bk4b5ksop1jm1fentmiot58690.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "790709530897-930osjod95vbsbrodb2dj5l2b9rb77m2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abg.homeservicepro"
+              }
             }
           ]
         }
@@ -74,6 +97,13 @@
             {
               "client_id": "790709530897-9ivhn9bk4b5ksop1jm1fentmiot58690.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "790709530897-930osjod95vbsbrodb2dj5l2b9rb77m2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abg.homeservicepro"
+              }
             }
           ]
         }
